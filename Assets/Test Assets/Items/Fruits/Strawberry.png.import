@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c23pu77m3qery"
-path="res://.godot/imported/Strawberry.png-91781125d3004532eb0766ca45be17d9.ctex"
+path="res://.godot/imported/Strawberry.png-2e24e56298a456b8a4516536af3e92d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Fruits/Strawberry.png"
-dest_files=["res://.godot/imported/Strawberry.png-91781125d3004532eb0766ca45be17d9.ctex"]
+source_file="res://Assets/Test Assets/Items/Fruits/Strawberry.png"
+dest_files=["res://.godot/imported/Strawberry.png-2e24e56298a456b8a4516536af3e92d3.ctex"]
 
 [params]
 

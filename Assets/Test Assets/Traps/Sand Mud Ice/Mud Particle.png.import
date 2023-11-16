@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7eu0067krc0j"
-path="res://.godot/imported/Mud Particle.png-8566ab9862fd2eb125ba582365bbc9c2.ctex"
+path="res://.godot/imported/Mud Particle.png-62a2ea16a23e0c4cf62436ead1b3fe99.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Traps/Sand Mud Ice/Mud Particle.png"
-dest_files=["res://.godot/imported/Mud Particle.png-8566ab9862fd2eb125ba582365bbc9c2.ctex"]
+source_file="res://Assets/Test Assets/Traps/Sand Mud Ice/Mud Particle.png"
+dest_files=["res://.godot/imported/Mud Particle.png-62a2ea16a23e0c4cf62436ead1b3fe99.ctex"]
 
 [params]
 
